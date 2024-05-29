@@ -1,1 +1,1 @@
-este e sun aprube ade crear un repositorio y clonarlo
+Repositorio Personal es una prueba de como crear un repositorio y clonarlo
